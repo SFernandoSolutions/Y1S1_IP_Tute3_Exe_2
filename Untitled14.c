@@ -23,4 +23,6 @@ int main(void){
 	printf("%d\t",outnum3);
 	printf("%d\t",outnum4);
 	printf("%d\t",outnum5);
+
+	return 0;
 }
